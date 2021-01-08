@@ -41,4 +41,5 @@ It can be seen from plot that, PCA-1 explains (41.65%) most of the variance than
 
 PCA.components_ attribute provides principal axes in feature space, representing the directions of maximum variance in the data. This means, we can see influence on each of the components by features.
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/PCA_componets_heatmap.png)
+
