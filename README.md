@@ -39,7 +39,7 @@ It can be seen from plot that, PCA-1 explains (41.65%) most of the variance than
 
 2.Effect of features on each components
 
-We can see the influence on each of the components by features. PCA 1 places more weight on Age, and approximately equal weight on Vehacle Age (1-2 and more than 2 years), with much less weight on Vehacle Age less than a year. Hence this feature roughly correspond to overall customer desicion.PCA 2 places most weight on Vintage, and PCA 3 on Previuosly Insured feature.
+We can see the influence on each of the components by features. PCA 1 places more weight on Age, and approximately equal weight on Vehacle Age (1-2 and more than 2 years), with much less weight on Vehacle Age less than a year. Hence this feature roughly correspond to overall customer desicion.PCA 2 places most weight on Vintage, and PCA 3 on Previuosly Insured feature. But we remember that the PCA 1 bears the most variance.
 
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/PCA_componets_heatmap.png)
 
@@ -47,7 +47,10 @@ We can see the influence on each of the components by features. PCA 1 places mor
 
 3. PCA Biplot
 
-Biplot is an interesting plot. It contains lot of useful information. Since, our customer is based in USA, we are wondering they want to know clusters distribution.
+Biplot is an interesting plot. It contains lot of useful information. Since, our customer is based in USA, we are wondering they want to know feature distribution.
 
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Bi_plot.png)
+
+---
+
