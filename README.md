@@ -39,7 +39,15 @@ It can be seen from plot that, PCA-1 explains (41.65%) most of the variance than
 
 2.Effect of features on each components
 
-PCA.components_ attribute provides principal axes in feature space, representing the directions of maximum variance in the data. This means, we can see influence on each of the components by features.
+We can see the influence on each of the components by features. PCA 1 places more weight on Age, and approximately equal weight on Vehacle Age (1-2 and more than 2 years), with much less weight on Vehacle Age less than a year. Hence this feature roughly correspond to overall customer desicion.PCA 2 places most weight on Vintage, and PCA 3 on Previuosly Insured feature.
 
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/PCA_componets_heatmap.png)
 
+---
+
+3. PCA Biplot
+
+Biplot is an interesting plot. It contains lot of useful information. Since, our customer is based in USA, we are wondering they want to know clusters distribution.
+
+
+![]()
