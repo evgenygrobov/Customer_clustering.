@@ -2,7 +2,8 @@
 
 ### (unsupervised  machine learning modeling) 
 
-![](https://github.com/evgenygrobov/Customer-churn-prediction/blob/main/images/pie_chart.png)
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/product-service-segmentation-28071896.jpg)
+
 
 ---
 
