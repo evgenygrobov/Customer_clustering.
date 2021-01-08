@@ -7,7 +7,7 @@
 
 ---
 
-###Scenario:
+### Scenario:
 
 Our client is an Insurance company that has provided Health Insurance to its customers now they want to expand line with  Vehicle Insurance products. For this reason existing cuatomers were surveyed about their potential interest in buying Vehicle insurance policy by the same company. Customer's response were collected and framed in single file. 
 We were asked to provide segmentation amongst customers who showed an interest in buying the new product. The project we are working on will reveal simillarities and dissimillarities customers share in clusters they will be assigned to. Thus, our client will be able to better distinguish between customers profiles,  and biuld and conduct marketing campany more effictievly.  
@@ -29,4 +29,9 @@ PCA is a method of extracting important variables from a large set of variables 
 
 ### Visualisation.
 
-[]()       
+1.Scree plot
+
+It can be seen from plot that, PCA-1 explains (41.65%) most of the variance than subsequent components. In other words, most of the features are explained and encompassed by PCA1. The rule of thumb is to capture 70-80%,thus we pick first 3 of the 11 PC. Great move, we reduce data set dimensonality in four times
+
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/PCA__scree-1.png)  
+
