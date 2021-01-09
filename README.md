@@ -55,8 +55,12 @@ We also can examine difference between states. The states with the largest first
 
 ---
 
-## KMeans cusltering 
+## KMeans clustering 
 
 ### Visualization
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/ClistersPercentage.png)
+
+---
+
+
