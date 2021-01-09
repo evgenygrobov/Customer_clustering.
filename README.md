@@ -69,12 +69,16 @@ Silhouettee score and Yellowbrick score clearly determinded  optimal number of c
 
 **Scatter plot Age & Vehicle age 1-2 years**
 
+We can observe positive correlation between Age and Vehicle age. With increase in Age we are eyebolling increase in Vehicles in age 1-2year.
+
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
 
 
 **Scatter pair plot Age & Vehicle damage**
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
+On plot we see also a positive correlation between Age and Vehicle Demage.With increase in Age the rate of demaged vehicle rise up as well.
+
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Damage.png)
 
 
 3. Lets see proportions between clusters we obtained from data set. The most populated cluster #1.
