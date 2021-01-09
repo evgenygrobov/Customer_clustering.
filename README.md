@@ -69,7 +69,8 @@ Silhouettee score and Yellowbrick score clearly determinded  optimal number of c
 
 **Scatter plot Age & Vehicle age 1-2 years
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
+
 
 **Scatter pair plot Age & Vehicle damage
 
