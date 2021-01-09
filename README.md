@@ -67,14 +67,15 @@ Silhouettee score and Yellowbrick score clearly determinded  optimal number of c
 
 2. I assigned cluster's ID to the data set observations. Now we can check relations of  most weighted features given from PCA.
 
-**Scatter plot Age & Vehicle age 1-2 years
+**Scatter plot Age & Vehicle age 1-2 years**
 
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
 
 
-**Scatter pair plot Age & Vehicle damage
+**Scatter pair plot Age & Vehicle damage**
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
+
 
 3. Lets see proportions between clusters we obtained from data set. The most populated cluster #1.
 
