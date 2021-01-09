@@ -76,7 +76,7 @@ We can observe positive correlation between Age and Vehicle age. With increase i
 
 **Scatter pair plot Age & Vehicle damage**
 
-On plot we see also a positive correlation between Age and Vehicle Demage.With increase in Age the rate of demaged vehicle rise up as well.
+ We also observe a positive correlation between Age and Vehicle Demage.With increase in Age the rate of demaged vehicle rise up as well.
 
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Damage.png)
 
@@ -87,4 +87,33 @@ On plot we see also a positive correlation between Age and Vehicle Demage.With i
 
 ---
 
+## All custmers who answered Yes were grouped by clusters. We also can see clusters distribition nationwide. is not great?
 
+
+|    Cluster # 0   | Cluster # 1         |   Cluster # 2           | 
+|:-----------------|:-------------------:|:-----------------------:|
+| Arkanzas         | Alabama             | Arizona                 | 
+| California       | Alaska              | Colorado                | 
+| Delaware         | Maryland            | Connecticut             | 
+| Florida          | Michigan            | Georgia                 | 
+| Hawaii           | Tennessee           | Illinoise               | 
+| Idaho            | Puerto Rico         | Indiana                 |        
+| Kentucky         | West Virginia       | Iowa                    |
+| Luisiana         |                     | Kansas                  |
+| Maine            |                     | Massachusetts           |
+| Minissota        |                     | Nebraska                |
+| Mississippi      |                     | New Jersey              |
+| Missouri         |                     | New York                |
+| Monatana         |                     | North Dakota            |
+| Nevada           |                     | Oklahoma                |
+| New Hampshire    |                     | Oregon                  |
+| New Mexico       |                     | Utah                    |
+| North Carolina   |                     | Wysconsin               |
+| Ohio             |                     |                         |
+| Pennsilvania     |                     |                         |
+| South Carolina   |                     |                         |
+| Texas            |                     |                         |
+| Vermont          |                     |                         |
+| Virginia         |                     |                         |
+| Washington       |                     |                         |
+| Wyoming          |                     |                         |
