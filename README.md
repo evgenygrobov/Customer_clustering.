@@ -61,7 +61,7 @@ We also can examine difference between states. The states with the largest first
 
 1. Silhouettee score hepled us find out optimal number of clusters. Lets see.
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/PCA_labled__YES_customers.png)
 
 2. Lets see proportions between clusters we obtained from data set. The most populated cluster #1.
 
