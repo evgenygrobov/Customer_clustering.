@@ -49,7 +49,7 @@ We can see the influence on each of the components by features. PCA 1 places mor
 
 Biplot is an interesting plot. It contains lot of useful information. Since, our customer is based in USA, we are wondering they want to know feature distribution.
 Overall, we see that Age, Vehacle Demage and Vehacle Age (1-2 years) are located close to each other, and Vintage is far from these three.This indicates that the variables are correlated with each other- the older populaton the their cars demaged more oftenly in age between 1-2 year,and Vintage is less correlated with them.
-We also can examine difference between states. The states with the largest first scores of the PCA 1, such as Nevada, West Virginia and Alabama have more population in older age with demaged car in first 1-2 years,while Wisconsin, Oregon and New York with negative scores of PCA 1 - have relatively more yanger people own cars less then a 1 year. 
+We also can examine difference between states. The states with the largest first scores of the PCA 1, such as Maryland, West Virginia and Alabama have more population in older age with demaged car in first 1-2 years,while Wisconsin, Oregon and New York with negative scores of PCA 1 - have relatively more yanger people own cars less then a 1 year. 
 
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Bi_plot.png)
 
