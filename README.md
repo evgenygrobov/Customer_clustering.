@@ -55,9 +55,10 @@ We also can examine difference between states. The states with the largest first
 
 ---
 
-## KMeans clustering
+## Clustering
 
-Silhouettee score and Yellowbrick score clearly determinded  optimal number of clusters. Lets see.
+Clustering looks to find homogeneous subgroups among the observation. KMeans clustering is a simple and elegant approach for partitioning the data set into K-distinct, non-overlaping clusters. To perform KMeans clusters we must first specify the desired number of K- clusters.
+Silhouettee score and Yellowbrick scores both clearly compute max score for 3  K-distinct clusters.
 
 ### Visualization
 
