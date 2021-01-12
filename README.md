@@ -18,8 +18,7 @@ We were asked to provide segmentation amongst customers who showed an interest i
 
 The data was taken at Kaggle  https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=sample_submission.csv
 
-***Data set paramenters are: [Id', 'Gender', 'Age', 'Driving_Licensse', 'Region_Code', 'Previously_Insured','Vehicle_
-Age', 'Vehicle_Damage', 'Annual_Premium', 'Policy_Sales_Channel','Vintage','Response']***
+***Data set consist of almost 400K unique observations and 9 paramenters wich are : [Id', 'Gender', 'Age', 'Driving_Licensse', 'Region_Code', 'Previously_Insured','Vehicle_Age', 'Vehicle_Damage', 'Annual_Premium', 'Policy_Sales_Channel','Vintage','Response']***
        
 
 ---
