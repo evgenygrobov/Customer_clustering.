@@ -2,7 +2,7 @@
 
 ### (unsupervised  machine learning modeling) 
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/product-service-segmentation-28071896.jpg)
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/bubles.jpg)
 
 
 ---
@@ -95,7 +95,7 @@ There are names I have assigned to the subgroups. The 'Young achivers' is cluste
 ![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/subgroups.png)
 
 
-## We also able to observe  geographical segmentation. is not great?
+## We also able to observe  geographical segmentation. is not it great?
 
 
 | Younger achivers |  Ho Hum             |    Financially mature   | 
