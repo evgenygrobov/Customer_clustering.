@@ -88,7 +88,13 @@ We can observe positive correlation between Age and Vehicle age. With increase i
 
 ---
 
-## All custmers who answered Yes were grouped by clusters. We also can see clusters distribition nationwide. is not great?
+## All custmers who answered Yes were grouped by clusters. 
+
+![]()
+
+
+
+We also can see clusters distribition nationwide. is not great?
 
 
 |    Cluster # 0   | Cluster # 2         |   Cluster # 1           | 
