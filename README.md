@@ -88,16 +88,17 @@ We can observe positive correlation between Age and Vehicle age. With increase i
 
 ---
 
-## All custmers who answered Yes were grouped by clusters. 
-
-![]()
-
+## All custmers who answered Yes are detached in three subgroups by behavioral and demographic segmentations.
+There are names I have assigned to the subgroups. The 'Young achivers' is cluster #0, the "Fanincially mature' is cluster #1 and 'Ho Hum' is cluster #2 respectively.
 
 
-We also can see clusters distribition nationwide. is not great?
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/subgroups.png)
 
 
-|    Cluster # 0   | Cluster # 2         |   Cluster # 1           | 
+## We also able to observe  geographical segmentation. is not great?
+
+
+| Younger achivers |  Ho Hum             |    Financially mature   | 
 |:-----------------|:-------------------:|:-----------------------:|
 | Arkanzas         | Alabama             | Arizona                 | 
 | California       | Alaska              | Colorado                | 
