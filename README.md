@@ -91,7 +91,7 @@ There are names I have assigned to the subgroups. The 'Young achivers' is cluste
 
 ---
 
-## We also able to observe  geographical segmentation. is not it great?
+## Geographical segmentation of groups accross the country. 
 
 
 | Younger achivers |  Ho Hum             |    Financially mature   | 
