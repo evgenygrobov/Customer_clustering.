@@ -87,8 +87,9 @@ Based on silhouette score i have decided to choose K clusters = 3
 There are names I have assigned to the subgroups. The 'Young achivers' is cluster #0, the "Fanincially mature' is cluster #1 and 'Ho Hum' is cluster #2 respectively.
 
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/subgroups.png)
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/groupsName.png)
 
+---
 
 ## We also able to observe  geographical segmentation. is not it great?
 
