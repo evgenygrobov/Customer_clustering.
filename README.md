@@ -79,7 +79,8 @@ Based on silhouette score i have decided to choose K clusters = 3
 
  We also observe a positive correlation between Age and Vehicle Demage.With increase in Age the rate of demaged vehicle rise up as well.
 
-![]()
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/boxplots.png)
+
 
 ---
 
