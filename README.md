@@ -67,23 +67,19 @@ Silhouettee score and Yellowbrick scores both clearly compute max score for 3  K
 
 2. I assigned cluster's ID to the data set observations. Now we can check relations of  most weighted features given from PCA.
 
-**Scatter plot Age & Vehicle age 1-2 years**
+**Silhouette plot**
 
-We can observe positive correlation between Age and Vehicle age. With increase in Age we are eyebolling an increase in portion of Vehicles in age 1-2year.
+Based on silhouette score i have decided to choose K clusters = 3
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Age_1-2%20Year.png)
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/silhouett_plot.png)
 
 
-**Scatter pair plot Age & Vehicle damage**
+
+**Box plot**
 
  We also observe a positive correlation between Age and Vehicle Demage.With increase in Age the rate of demaged vehicle rise up as well.
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Age_PairWith_Vehicle_Damage.png)
-
-
-3. Lets see proportions between clusters we obtained from data set. The most populated cluster #0.
-
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/Pie_chart__Clusters_%25.png)
+![]()
 
 ---
 
