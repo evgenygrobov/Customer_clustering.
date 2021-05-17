@@ -1,4 +1,4 @@
-# Customer_segmentation.
+# Customer_segmentation
 
 ### (unsupervised  machine learning modeling) 
 
