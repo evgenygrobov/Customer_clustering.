@@ -2,7 +2,7 @@
 
 ### (unsupervised  machine learning modeling) 
 
-![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/bubles.jpg)
+![](https://github.com/evgenygrobov/Customer_clustering./blob/main/images/shutterstock_263091443-People-Pie-wider-e1499788074769.jpg)
 
 
 ---
